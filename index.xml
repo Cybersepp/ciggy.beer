@@ -14,8 +14,9 @@
       <pubDate>Thu, 27 Jan 2022 18:21:07 +0200</pubDate>
       
       <guid>https://cybersepp.github.io/posts/hack-the-car/</guid>
-      <description>No, not yet. ¯_(ツ)_/¯ [WIP]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis felis ac augue congue, sed faucibus dui eleifend. Vivamus volutpat est diam, at condimentum est mattis non. Praesent gravida dignissim orci a finibus. Nam mollis mi mauris, tincidunt gravida massa pulvinar vitae. Sed ornare justo id nisi tempus tempus. Curabitur at dictum urna, ut rutrum arcu. Morbi ante lectus, rutrum nec lectus eget, rutrum commodo diam.</description>
+      <description>Short answer: No, not yet. ¯_(ツ)_/¯ [WIP]
+Inspired by this: https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty
+Since the 1990s car manufacturers were pressured into upping their keyfob cybersecurity. The reason behind this was usage of static codes for unlocking the car. This implies that there was one unique code for the car which the keyfob knew. When pressing any button on the keyfob the unique code would be sent to the car and the car would do the desired action, e.</description>
     </item>
     
     <item>
@@ -28,14 +29,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mattis fel
     </item>
     
     <item>
-      <title>What are the reasons for me making a website?</title>
+      <title>Why did I make a personal website?</title>
       <link>https://cybersepp.github.io/posts/prologue/</link>
       <pubDate>Thu, 27 Jan 2022 17:31:34 +0200</pubDate>
       
       <guid>https://cybersepp.github.io/posts/prologue/</guid>
-      <description>There are many reasons for why one would want a website.
-In my case I&amp;rsquo;ve decided that I need a place where I can structure and store my thoughts regarding various topics rather than just let them fade away from my memory over time.
-Also I&amp;rsquo;ve never created a website for personal use before so that needed to change. :^)</description>
+      <description>Jumal loob ja õnnistab maailma
+1 Alguses lõi Jumal taeva ja maa.
+2 Maa oli tühi ja paljas ja pimedus oli sügavuse peal ja Jumala Vaim hõljus vete kohal.
+3 Ja Jumal ütles: „Saagu valgus!” Ja valgus sai.
+4 Ja Jumal nägi, et valgus oli hea, ja Jumal lahutas valguse pimedusest.
+5 Ja Jumal nimetas valguse päevaks ja pimeduse ta nimetas ööks. Siis sai õhtu ja sai hommik - esimene päev.</description>
     </item>
     
   </channel>
