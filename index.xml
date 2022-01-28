@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 27 Jan 2022 18:21:07 +0200</lastBuildDate><atom:link href="https://cybersepp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 01:50:34 +0200</lastBuildDate><atom:link href="https://cybersepp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why did I make a personal website?</title>
+      <link>https://cybersepp.github.io/posts/prologue/</link>
+      <pubDate>Sat, 29 Jan 2022 01:50:34 +0200</pubDate>
+      
+      <guid>https://cybersepp.github.io/posts/prologue/</guid>
+      <description>Purpose There are many reasons for why one would want a website for personal use. In my case I needed a website that would fulfil the following criteria:
+ Website hosting must be free (because I&amp;rsquo;m poor) Clean-looking Add content with ease Easy to set up  The main purpose of this website is to share content and my toughts on various topics for me and my friends. Besides, I haven&amp;rsquo;t done anything like this before.</description>
+    </item>
+    
     <item>
       <title>Can I hack my car?</title>
       <link>https://cybersepp.github.io/posts/hack-the-car/</link>
@@ -25,21 +35,7 @@ Since the 1990s car manufacturers were pressured into upping their keyfob cybers
       <pubDate>Thu, 27 Jan 2022 18:21:07 +0200</pubDate>
       
       <guid>https://cybersepp.github.io/cool-links/</guid>
-      <description>Radio  ambur.ee meteo.physic.ut.ee priyom.org sigidwiki.com traadita wiki  News  hackernews lobsters cybersec.ee  Questionable activities  osintframework.com exploit-db toomekivi.info  Blogs  jaanus.tech-thing.org fouryears.eu blog.slavin.ee harmelnestra.blogspot.com  Urban exploration  tartu abandoned buildings estonia abandoned top  Kvlt  norroen.info  Books  hn books singularity  </description>
-    </item>
-    
-    <item>
-      <title>Why did I make a personal website?</title>
-      <link>https://cybersepp.github.io/posts/prologue/</link>
-      <pubDate>Thu, 27 Jan 2022 17:31:34 +0200</pubDate>
-      
-      <guid>https://cybersepp.github.io/posts/prologue/</guid>
-      <description>Jumal loob ja õnnistab maailma
-1 Alguses lõi Jumal taeva ja maa.
-2 Maa oli tühi ja paljas ja pimedus oli sügavuse peal ja Jumala Vaim hõljus vete kohal.
-3 Ja Jumal ütles: „Saagu valgus!” Ja valgus sai.
-4 Ja Jumal nägi, et valgus oli hea, ja Jumal lahutas valguse pimedusest.
-5 Ja Jumal nimetas valguse päevaks ja pimeduse ta nimetas ööks. Siis sai õhtu ja sai hommik - esimene päev.</description>
+      <description>Radio  ambur.ee meteo.physic.ut.ee priyom.org sigidwiki.com traadita wiki  News  hackernews lobsters cybersec.ee  Questionable activities  osintframework.com exploit-db toomekivi.info  Blogs  jaanus.tech-thing.org fouryears.eu blog.slavin.ee harmelnestra.blogspot.com  Urban exploration  tartu abandoned buildings estonia abandoned top  Kvlt  norroen.info  Books  hn books singularity piibel  </description>
     </item>
     
   </channel>
