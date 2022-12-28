@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Georg Šumailov</title>
-    <link>https://cybersepp.github.io/</link>
+    <link>https://shumaylov.ee/</link>
     <description>Recent content on Georg Šumailov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 29 Jan 2022 01:50:34 +0200</lastBuildDate><atom:link href="https://cybersepp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 01:50:34 +0200</lastBuildDate><atom:link href="https://shumaylov.ee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why did I make a personal website?</title>
-      <link>https://cybersepp.github.io/posts/prologue/</link>
+      <link>https://shumaylov.ee/posts/prologue/</link>
       <pubDate>Sat, 29 Jan 2022 01:50:34 +0200</pubDate>
       
-      <guid>https://cybersepp.github.io/posts/prologue/</guid>
+      <guid>https://shumaylov.ee/posts/prologue/</guid>
       <description>Purpose There are many reasons for why one would want a website for personal use. In my case I needed a website that would fulfil the following criteria:
  Website hosting must be free (because I&amp;rsquo;m poor) Clean-looking Add content with ease Easy to set up  The main purpose of this website is to share content and my toughts on various topics for me and my friends. Besides, I haven&amp;rsquo;t done anything like this before.</description>
     </item>
     
     <item>
       <title>Can I hack my car?</title>
-      <link>https://cybersepp.github.io/posts/hack-the-car/</link>
+      <link>https://shumaylov.ee/posts/hack-the-car/</link>
       <pubDate>Thu, 27 Jan 2022 18:21:07 +0200</pubDate>
       
-      <guid>https://cybersepp.github.io/posts/hack-the-car/</guid>
+      <guid>https://shumaylov.ee/posts/hack-the-car/</guid>
       <description>Short answer: No, not yet. ¯_(ツ)_/¯ [WIP]
 Inspired by this: https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty
 Since the 1990s car manufacturers were pressured into upping their keyfob cybersecurity. The reason behind this was usage of static codes for unlocking the car. This implies that there was one unique code for the car which the keyfob knew. When pressing any button on the keyfob the unique code would be sent to the car and the car would do the desired action, e.</description>
@@ -31,10 +31,10 @@ Since the 1990s car manufacturers were pressured into upping their keyfob cybers
     
     <item>
       <title>Interesting resources</title>
-      <link>https://cybersepp.github.io/cool-links/</link>
+      <link>https://shumaylov.ee/cool-links/</link>
       <pubDate>Thu, 27 Jan 2022 18:21:07 +0200</pubDate>
       
-      <guid>https://cybersepp.github.io/cool-links/</guid>
+      <guid>https://shumaylov.ee/cool-links/</guid>
       <description>Radio  ambur.ee meteo.physic.ut.ee priyom.org sigidwiki.com traadita wiki  News  hackernews lobsters cybersec.ee  Questionable activities  osintframework.com exploit-db toomekivi.info  Blogs  jaanus.tech-thing.org fouryears.eu blog.slavin.ee harmelnestra.blogspot.com  Urban exploration  tartu abandoned buildings estonia abandoned top  Kvlt  norroen.info  Books  hn books singularity piibel  </description>
     </item>
     
