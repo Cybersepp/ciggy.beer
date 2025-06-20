@@ -1,27 +1,9 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Blog on Georg Šumailov</title>
-        <link>https://ciggy.beer/posts/</link>
-        <description>Recent content in Blog on Georg Šumailov</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 14 Mar 2023 17:53:18 +0200</lastBuildDate>
-        <atom:link href="https://ciggy.beer/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Code for artsy purposes?</title>
-            <link>https://ciggy.beer/posts/creative-programming/</link>
-            <pubDate>Tue, 14 Mar 2023 17:53:18 +0200</pubDate>
-            
-            <guid>https://ciggy.beer/posts/creative-programming/</guid>
-            <description>&lt;h2 id=&#34;the-need-for-creation&#34;&gt;The need for creation&lt;/h2&gt;
-&lt;p&gt;Like many others I enjoy creating and building stuff.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Georg Šumailov</title><link>https://ciggy.beer/posts/</link><description>Recent content in Blog on Georg Šumailov</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Tue, 14 Mar 2023 17:53:18 +0200</lastBuildDate><atom:link href="https://ciggy.beer/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Code for artsy purposes?</title><link>https://ciggy.beer/posts/creative-programming/</link><pubDate>Tue, 14 Mar 2023 17:53:18 +0200</pubDate><guid>https://ciggy.beer/posts/creative-programming/</guid><description>&lt;h2 id="the-need-for-creation">The need for creation&lt;/h2>
+&lt;p>Like many others I enjoy creating and building stuff.
 It can range from a small video skit sent to a friend to carving out a viking shield.
 Usually my small obsessions don&amp;rsquo;t last for too long but nonetheless they come and go periodcally,
 fulfilling my need for creation. Being a software developer I of course enjoy programming as well,
-the amount of impact &lt;a href=&#34;https://youtu.be/DmV49ogMDEI&#34;&gt;one good engineer&lt;/a&gt; can create is immeasurable and fascinating.&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h2 id="the-need-for-creation">The need for creation</h2>
+the amount of impact &lt;a href="https://youtu.be/DmV49ogMDEI">one good engineer&lt;/a> can create is immeasurable and fascinating.&lt;/p></description><content type="html"><![CDATA[<h2 id="the-need-for-creation">The need for creation</h2>
 <p>Like many others I enjoy creating and building stuff.
 It can range from a small video skit sent to a friend to carving out a viking shield.
 Usually my small obsessions don&rsquo;t last for too long but nonetheless they come and go periodcally,
@@ -144,29 +126,19 @@ For <a href="https://marmont.gucci.com/">example this gucci website</a> was made
 <h2 id="references">References</h2>
 <p>[1] <a href="https://en.wikipedia.org/wiki/Creative_coding">https://en.wikipedia.org/wiki/Creative_coding</a></p>
 <p>[2] <a href="https://timrodenbroeker.de/what-is-creative-coding/">https://timrodenbroeker.de/what-is-creative-coding/</a></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Why did I make a personal website?</title>
-            <link>https://ciggy.beer/posts/prologue/</link>
-            <pubDate>Sat, 29 Jan 2022 01:50:34 +0200</pubDate>
-            
-            <guid>https://ciggy.beer/posts/prologue/</guid>
-            <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;
-&lt;p&gt;There are many reasons for why one would want a website for personal use.
-In my case I needed a website that would fulfil the following criteria:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Website hosting must be free (because I&amp;rsquo;m poor)&lt;/li&gt;
-&lt;li&gt;Clean-looking&lt;/li&gt;
-&lt;li&gt;Add content with ease&lt;/li&gt;
-&lt;li&gt;Easy to set up&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The main purpose of this website is to share content and my toughts on various topics for me and my friends.
+]]></content></item><item><title>Why did I make a personal website?</title><link>https://ciggy.beer/posts/prologue/</link><pubDate>Sat, 29 Jan 2022 01:50:34 +0200</pubDate><guid>https://ciggy.beer/posts/prologue/</guid><description>&lt;h2 id="purpose">Purpose&lt;/h2>
+&lt;p>There are many reasons for why one would want a website for personal use.
+In my case I needed a website that would fulfil the following criteria:&lt;/p>
+&lt;ul>
+&lt;li>Website hosting must be free (because I&amp;rsquo;m poor)&lt;/li>
+&lt;li>Clean-looking&lt;/li>
+&lt;li>Add content with ease&lt;/li>
+&lt;li>Easy to set up&lt;/li>
+&lt;/ul>
+&lt;p>The main purpose of this website is to share content and my toughts on various topics for me and my friends.
 Besides, I haven&amp;rsquo;t done anything like this before.
 So naturally I went out and asked google for advice on what technology to use for building a website.
-I was instantly overwhelmed with the number of options available.&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<h2 id="purpose">Purpose</h2>
+I was instantly overwhelmed with the number of options available.&lt;/p></description><content type="html"><![CDATA[<h2 id="purpose">Purpose</h2>
 <p>There are many reasons for why one would want a website for personal use.
 In my case I needed a website that would fulfil the following criteria:</p>
 <ul>
@@ -193,25 +165,15 @@ I ended up making two repos in github, one for source code and the other one for
 Then link them together using github sumbodules and
 bada bing, bada boom - you&rsquo;re done!</p>
 <p>If you&rsquo;re interested in how that looks in detail, check out this <a href="https://youtu.be/LIFvgrRxdt4">video</a>.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Can I hack my car?</title>
-            <link>https://ciggy.beer/posts/hack-the-car/</link>
-            <pubDate>Thu, 27 Jan 2022 18:21:07 +0200</pubDate>
-            
-            <guid>https://ciggy.beer/posts/hack-the-car/</guid>
-            <description>&lt;p&gt;Short answer: No, not yet. ¯_(ツ)_/¯ [WIP]&lt;/p&gt;
-&lt;p&gt;Inspired by this: &lt;a href=&#34;https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty&#34;&gt;https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Since the 1990s car manufacturers were pressured into upping their keyfob cybersecurity.
+]]></content></item><item><title>Can I hack my car?</title><link>https://ciggy.beer/posts/hack-the-car/</link><pubDate>Thu, 27 Jan 2022 18:21:07 +0200</pubDate><guid>https://ciggy.beer/posts/hack-the-car/</guid><description>&lt;p>Short answer: No, not yet. ¯_(ツ)_/¯ [WIP]&lt;/p>
+&lt;p>Inspired by this: &lt;a href="https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty">https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty&lt;/a>&lt;/p>
+&lt;p>Since the 1990s car manufacturers were pressured into upping their keyfob cybersecurity.
 The reason behind this was usage of static codes for unlocking the car.
 This implies that there was one unique code for the car which the keyfob knew.
 When pressing any button on the keyfob the unique code would be sent to the car and
 the car would do the desired action, e.g. unlocking itself.
 The hacker would be able to (relatively) easily record the signal from the keyfob while being in close proximity and gain
-unlimited access to your vehicle. This rather unfortunate and sad state of affairs is called a &lt;a href=&#34;https://en.wikipedia.org/wiki/Replay_attack&#34;&gt;replay attack&lt;/a&gt;.&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<p>Short answer: No, not yet. ¯_(ツ)_/¯ [WIP]</p>
+unlimited access to your vehicle. This rather unfortunate and sad state of affairs is called a &lt;a href="https://en.wikipedia.org/wiki/Replay_attack">replay attack&lt;/a>.&lt;/p></description><content type="html"><![CDATA[<p>Short answer: No, not yet. ¯_(ツ)_/¯ [WIP]</p>
 <p>Inspired by this: <a href="https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty">https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty</a></p>
 <p>Since the 1990s car manufacturers were pressured into upping their keyfob cybersecurity.
 The reason behind this was usage of static codes for unlocking the car.
@@ -222,8 +184,4 @@ The hacker would be able to (relatively) easily record the signal from the keyfo
 unlimited access to your vehicle. This rather unfortunate and sad state of affairs is called a <a href="https://en.wikipedia.org/wiki/Replay_attack">replay attack</a>.</p>
 <p>Aforementioned inspiration source claims that Honda was using static codes all this time. Since I own a 2002 second gen Honda CR-V I&rsquo;m going to try the replay attack on my own car.</p>
 <p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2002_Honda_CR-V_%28RD7_MY02%29_Sport_wagon_%282015-07-09%29_01.jpg/1280px-2002_Honda_CR-V_%28RD7_MY02%29_Sport_wagon_%282015-07-09%29_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2002_Honda_CR-V_%28RD7_MY02%29_Sport_wagon_%282015-07-09%29_01.jpg/1280px-2002_Honda_CR-V_%28RD7_MY02%29_Sport_wagon_%282015-07-09%29_01.jpg"></a></p>
-]]></content>
-        </item>
-        
-    </channel>
-</rss>
+]]></content></item></channel></rss>
